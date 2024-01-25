@@ -1,5 +1,5 @@
 # Trainspotting
-A dataset of train vibration features and corresponding train model label. This dataset is based on the vibrations recording of the http://www.ess.tu-darmstadt.de/datasets/inss2012-trainspotting . 
+A dataset of train vibration features and corresponding train model label. This dataset is based on the vibrations recording of the http://www.ess.tu-darmstadt.de/datasets/inss2012-trainspotting . The features and the train events were extracted.
 
 Number of features: 9
 
